@@ -22,12 +22,12 @@ export default {
 <style scoped>
 footer {
   font-weight: 100;
-  margin: 0;
+  margin-top: 30px;
   text-align: center;
   padding: 15px 0px;
   width: 100%;
   height: 2.5rem;
-  position: absolute;
+  position: relative;
   bottom: 0;
 }
 </style>
